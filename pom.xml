@@ -41,7 +41,7 @@
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>broker-core</artifactId>
-      <version>${powertac.version}</version>
+      <version>1.4.0-SNAPSHOT</version>
     </dependency>
 
 
